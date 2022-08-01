@@ -1,43 +1,66 @@
-<h1> Procedimento para unidades solicitarem modificação de espaço físico para fins de ensino, pesquisa e extensão </h1>
+<h1> Tutorial para criação de orçamento  </h1>
 
-<dt><h2> Introdução </h2></dt>
+<h2 align="justify"> Introdução </h2>
 
-Este procedimento serve para instruir você, professor, coordenador e TAE a realizar um pedido de modificação de espaço físico da UFCAT via Secretaria de Infraestrutura (SEINFRA).
+Este tutorial serve para instruir você, professor, coordenador, funcionário a realizar um orçamento de projeto para a Secretaria de Infraestrutura-SEINFRA.
 
-<dt><h2> Procedimento </h2></dt>
+<h2 align="justify"> Levantamento do serviço </h2>
 
-Neste tópico mostraremos o processo que deve seguir para solicitar o procedimento de modificação de espaço físico.
+Para fazer o levantamento do serviço deve criar layers no projeto para detalhar quais as áreas que estão sendo levantadas no orçamento.
+
+<h2 align="justify"> Quantificação dos preços  </h2>
+
+Para obter os valores que serão usados no orçamento, deve consultar as planilhas mais recentes do SINAPI e GOINFRA.
+Segue abaixo o tutorial para o download dessas planilhas. 
+
+Para a planilha do SINAPI: 
 
 <dl>
   <dt>Etapa 1:</dt>
   <dd align="justify">
-      Para realizar o processo de procedimento de modificações no espaço físico deve-se primeiramente criar um processo no SEI, e para isso deve-se utilizar o tipo de processo: Administração Geral: Comunicação Oficial, sendo que para todas essas etapas o nível de acesso será público. 
+     Pesquisar SINAPI no google, e clicar em Referências de preços e custos.
+
 
   </dd>
   <dt>Etapa 2:</dt>
   <dd align="justify">
-      Após a criação do processo, anexar ofício no SEI, relatando as justificativas para a realização da modificação. No SEI consta um modelo de Ofício. 
+      Após abrir a página, clicar no estado de Goiás.
 
   </dd>
 
    <dt>Etapa 3:</dt>
   <dd align="justify">
-      Anexar despacho no SEI, com a assinatura de quem está solicitando e do diretor da Unidade. 
+     Baixar a tabela de composição do SINAPI mais recente. 
 
+  </dd>
+</dl>
+
+Para a planilha do GOINFRA: 
+
+<dl>
+  <dt>Etapa 1:</dt>
+  <dd align="justify">
+     Pesquisar GOINFRA no google.
+
+  </dd>
+  <dt>Etapa 2:</dt>
+  <dd align="justify">
+     Clicar na lupa de busca e pesquisar “Composições”.
+
+  </dd>
+
+   <dt>Etapa 3:</dt>
+  <dd align="justify">
+    Após mostrar o resultado da pesquisa clique em Relatório de Composição de Serviço.
   </dd>
 
    <dt>Etapa 4:</dt>
   <dd align="justify">
-     Deve anexar todas comunicações internas, como agendamentos de vistorias, parecer não oficial, para ter comprovado no SEI. Ao nomear os documentos de comunicação interna colocar “CI” antes do nome do arquivo. 
-
-  </dd>
-
-   <dt>Etapa 5:</dt>
-  <dd align="justify">
-     Com o parecer oficial publicado estima-se que o prazo mínimo de conclusão é de 30 dias para modificações que não dependem de edital e 60 dias para apresentação da resposta em modificação que o valor da modificação será custeado via edital, sendo que esse prazo pode aumentar dependendo da grandeza da obra. 
+    Pronto, já encontramos a Tabela de Composição, agora basta baixar a tabela do mês mais recente. 
 
   </dd>
 </dl>
+
 
 <h2>Fluxograma</h2>
 
