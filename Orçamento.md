@@ -64,4 +64,4 @@ Para a planilha do GOINFRA:
 
 <h2>Fluxograma</h2>
 
-<center><img src="https://imgur.com/hHCyp6V" width="70%" alt="Fluxograma"></center>
+<center><img src="https://imgur.com/hHCyp6V.png" width="70%" alt="Fluxograma"></center>
