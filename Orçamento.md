@@ -56,7 +56,7 @@ Para a planilha do GOINFRA:
 
    <dt>Etapa 4:</dt>
   <dd align="justify">
-    Pronto, já encontramos a Tabela de Composição, agora basta baixar a tabela do mês mais recente. 
+    Pronto, já encontramos a Tabela de Composição, agora basta baixar a tabela do mês mais recente. Fkuxograma  
 
   </dd>
 </dl>
