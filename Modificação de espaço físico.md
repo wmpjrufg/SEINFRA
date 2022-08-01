@@ -1,10 +1,10 @@
 <h1> Procedimento para unidades solicitarem modificação de espaço físico para fins de ensino, pesquisa e extensão </h1>
 
-<dt><h> Introdução </h2></dt>
+<dt><h2> Introdução </h2></dt>
 
 Este procedimento serve para instruir você, professor, coordenador e TAE a realizar um pedido de modificação de espaço físico da UFCAT via Secretaria de Infraestrutura (SEINFRA).
 
-<dt><h> Procedimento </h2></dt>
+<dt><h2> Procedimento </h2></dt>
 
 Neste tópico mostraremos o processo que deve seguir para solicitar o procedimento de modificação de espaço físico.
 
@@ -39,7 +39,7 @@ Neste tópico mostraremos o processo que deve seguir para solicitar o procedimen
   </dd>
 </dl>
 
-<h>Fluxograma</h2>
+<h2>Fluxograma</h2>
 
 <center><img src="https://imgur.com/hHCyp6V" width="70%" alt="Fluxograma"></center>
 
