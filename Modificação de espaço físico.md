@@ -41,6 +41,8 @@ Neste tópico mostraremos o processo que deve seguir para solicitar o procedimen
 
 <h2>Fluxograma</h2>
 
-<center><img src="https://imgur.com/a/OEfCl5K" width="70%" alt="Fluxograma"></center>
+<center>
+<img src="https://imgur.com/a/OEfCl5K" width="70%" alt="Fluxograma">
+</center>
 
 
