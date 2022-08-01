@@ -42,7 +42,7 @@ Neste tópico mostraremos o processo que deve seguir para solicitar o procedimen
 <h2>Fluxograma</h2>
 
 <center>
-<img src="https://imgur.com/a/OEfCl5K.png" width="70%" alt="Fluxograma 01">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/OEfCl5K" data-context="false" ><a href="//imgur.com/a/OEfCl5K"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </center>
 
 
