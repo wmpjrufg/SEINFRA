@@ -15,10 +15,11 @@ Neste doc são descritas as versões dos POP's atualizadas para a SEINFRA.
 </p>
 
 <blockquote>
+<dl>
 <dt>Versão 2022.0.0</dt>
-<dd> A versão 2022.0.0 contempla os POP's: a) <b>POP0001</b>; e b) <b>POP0002</b></dd>
+<dd><p align="justify">A versão 2022.0.0 contempla os POP's: a) <b>POP0001</b>; e b) <b>POP0002</b>.</p></dd>
 <dt> POP's</dt>
-<dd> <b>POP0001:<\b><p align="justify">Resumo do POP.</p></dd>
-<dd> <b>POP0002:<\b><p align="justify">Resumo do POP.</p></dd>
+<dd> <b>POP0001:</b><p align="justify">Resumo do POP.</p></dd>
+<dd> <b>POP0002:</b><p align="justify">Resumo do POP.</p></dd>
 </dl>
 </blockquote>
