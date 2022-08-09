@@ -46,7 +46,26 @@
 </ol>
 </body>
 
+<h2 align="justify">Planilha orçamentária</h2>
 
+<P align="justify">Para criação do orçamento deve-se estabelecer uma Estrutura Análitica de Projeto (EAP) com quatro níveis caracterizando os seguintes esquemas:</P>
 
-<center><img src="https://imgur.com/hHCyp6V.png" width="70%" alt="Fluxograma"></center>
-<center><img src="/IMG/teste.svg" width="70%" alt="Fluxograma"></center>
+<body>
+<ol>
+<li>Custo;
+</li>
+<li>Etapa;
+</li>
+<li>Sub-etapa;
+</li>
+ <li>Composição de custo unitário;
+</li>
+</ol>
+</body>
+
+<P align="justify">Para maior esclarecimento do POP a Figura 2 apresenta o nível de divisão recomendado. </P>
+
+<P align="center">Figura 2 - Exemplo de uma Estrutura Análitica de Projeto (EAP).
+ </P>
+<P align="center"><img src="/IMG/teste.svg" width="70%" alt="Fluxograma"></P>
+
