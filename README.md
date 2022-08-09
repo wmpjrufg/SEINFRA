@@ -6,8 +6,7 @@ Neste repositório são disponibilizados os Procedimentos Operacionais Padroniza
 <br>
 
 <h2>Acesso a plataforma de POP's</h2>
-- 🌐[WEB](https://wmpjrufg.github.io/SEINFRA/):
-<br>
+- [Web](https://wmpjrufg.github.io/SEINFRA/):
 
 <h2>Versões</h2>
 <p align="justify">
