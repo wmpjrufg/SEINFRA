@@ -75,7 +75,7 @@
 <table border="1">
     <tr>
         <th>IMAGEM</th>
-        <th>IMAGEM</th>
+        <th><P align="center"><img src="/IMG/QRCode_Fácil.svg" width="70%" alt="Fluxograma"></P></th>
     </tr>
  </table>
  
