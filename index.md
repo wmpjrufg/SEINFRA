@@ -11,7 +11,7 @@ Este <i>website</i> contém todos procedimentos de trabalho (POP) utilizdos pela
 <li><a href="http://lattes.cnpq.br/2268506213083114" target="_blank">Prof. Wanderlei Malaquias Pereira Junior</a></li>
 </ul>
 
-<h3><i>Estágiarios</i></h3>
+<h3>Estágiarios</h3>
 <ul>
 <li>Priscilla Silva Teotônio</li>
 </ul>
