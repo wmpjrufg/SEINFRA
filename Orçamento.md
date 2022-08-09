@@ -1,68 +1,52 @@
-<h1> Tutorial para criação de orçamento  </h1>
+<h1> POP_ORÇ_001: Procedimento para criação de orçamento de projeto </h1>
 
 <h2 align="justify"> Introdução </h2>
 
-Este tutorial serve para instruir você, professor, coordenador, funcionário a realizar um orçamento de projeto para a Secretaria de Infraestrutura-SEINFRA.
+<P align="justify">Este POP tem como objetivo apresentar as diretrizes para criação de propostas orçamentárias e levantamento de custo em geral para a empresa Universidade Federal de Catalão (UFCAT). </P>
 
-<h2 align="justify"> Levantamento do serviço </h2>
-
-Para fazer o levantamento do serviço deve criar layers no projeto para detalhar quais as áreas que estão sendo levantadas no orçamento.
-
-<h2 align="justify"> Quantificação dos preços  </h2>
-
-Para obter os valores que serão usados no orçamento, deve consultar as planilhas mais recentes do SINAPI e GOINFRA.
-Segue abaixo o tutorial para o download dessas planilhas. 
-
-Para a planilha do SINAPI: 
-
-<dl>
-  <dt>Etapa 1:</dt>
-  <dd align="justify">
-     Pesquisar SINAPI no google, e clicar em Referências de preços e custos.
+<P align="justify">O trabalho é dividido em:
+</P>
+<body>
+<ol>
+<li>Levantamento de serviços;</li>
+<li>Composições de custo;</li>
+<li>Planilha orçamentária</li>
+<li>Cálculo do BDI</li>
+</ol>
+</body>
 
 
-  </dd>
-  <dt>Etapa 2:</dt>
-  <dd align="justify">
-      Após abrir a página, clicar no estado de Goiás.
+<h2 align="justify"> Levantamento de serviços </h2>
 
-  </dd>
+<P align="justify">O levantamento de serviços é realizado através de arquivos físicos e digitais denominado pranchas. Estes arquivos normalmente são divididos entre as disciplinas projeto, caracterizando assim um projeto completo de uma edificação. </P>
+<P align="justify">Para fazer o levantamento do serviço deve <b>criar layers</b> no projeto detalhando qual o polígono ou perímetro levantado. Sempre que possível crie um código para o levantamento que está realizando como no caso do exemplo apresentado na <b>Figura 1.</b>
+ </P>
+ 
+ <P align="center">Figura 1 - Exemplo de levto de alvenaria do <i>software</i> autocad.
+ </P>
+ 
+<center><img src="/IMG/teste.svg" width="70%" alt="Fluxograma"></center>
 
-   <dt>Etapa 3:</dt>
-  <dd align="justify">
-     Baixar a tabela de composição do SINAPI mais recente. 
+<P align="justify">Veja na <b>Figura 1</b> que para o exemplo da alvenaria foi estabelecido o código <i>ALV001</i> para caracterizar a polilinha que gerará o comprimento total daquele elemento.
+ </P>
+ 
+<h2 align="justify">Composição de custo </h2>
 
-  </dd>
-</dl>
+<P align="justify">Os valores de preços unitários dos serviços devem seguir essencialmente os preços de banco de dados públicos como <b>SINAPI, GOINFRA e ORSE</b>. Os <i>links</i> das planilhas desoneradas de um dos bancos são apresentados a seguir:
+ </P>
 
-Para a planilha do GOINFRA: 
-
-<dl>
-  <dt>Etapa 1:</dt>
-  <dd align="justify">
-     Pesquisar GOINFRA no google.
-
-  </dd>
-  <dt>Etapa 2:</dt>
-  <dd align="justify">
-     Clicar na lupa de busca e pesquisar “Composições”.
-
-  </dd>
-
-   <dt>Etapa 3:</dt>
-  <dd align="justify">
-    Após mostrar o resultado da pesquisa clique em Relatório de Composição de Serviço.
-  </dd>
-
-   <dt>Etapa 4:</dt>
-  <dd align="justify">
-    Pronto, já encontramos a Tabela de Composição, agora basta baixar a tabela do mês mais recente. Fkuxograma  
-
-  </dd>
-</dl>
+<body>
+<ol>
+<li>SINAPI(https://www.caixa.gov.br/Downloads/sinapi-a-partir-jul-2009-go/SINAPI_ref_Insumos_Composicoes_GO_062022_Desonerado.zip) 
+</li>
+<li>GOINFRA (http://www.goinfra.go.gov.br/tabela-de-composicao/114) 
+</li>
+<li>ORSE (http://orse.cehop.se.gov.br/servicos.asp) 
+</li>
+</ol>
+</body>
 
 
-<h2>Fluxograma</h2>
 
 <center><img src="https://imgur.com/hHCyp6V.png" width="70%" alt="Fluxograma"></center>
 <center><img src="/IMG/teste.svg" width="70%" alt="Fluxograma"></center>
