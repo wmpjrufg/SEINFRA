@@ -69,7 +69,8 @@
  </P>
 <P align="center"><img src="/IMG/teste.svg" width="70%" alt="Fluxograma"></P>
 
-<P align="justify">A planilha orçamentária modelo pode ser baixada no link disponibilizado pelo SEINFRA ou pelo seguinte QR CODE. https://docs.google.com/spreadsheets/d/1HlTXerDXX4APiIuoWRjb6KiL6l_I7xhn/edit#gid=1610551782 </P>
+<P align="justify">A planilha orçamentária modelo pode ser baixada no link disponibilizado pelo SEINFRA ou pelo seguinte QR CODE.</P>
+<P align="justify"> https://docs.google.com/spreadsheets/d/1HlTXerDXX4APiIuoWRjb6KiL6l_I7xhn/edit#gid=1610551782 </P>
 
 <table border="1">
     <tr>
