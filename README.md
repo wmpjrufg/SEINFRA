@@ -14,6 +14,10 @@ Neste repositório são disponibilizados os Procedimentos Operacionais Padroniza
 Neste doc são descritas as versões dos POP's atualizadas para a SEINFRA. 
 </p>
 <dl>
+  <blockquote cite="http://developer.mozilla.org">
+  <p>Esta é uma citação tirada da
+  Mozilla Developer Center.</p>
+</blockquote>
 <dt>Versão 2022.0.0</dt>
 <dd> A versão 2022.0.0 contempla os POP's: a) <b>POP0001</b>; e b) <b>POP0002</b></dd>
 <dt> POP's</dt>
