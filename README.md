@@ -13,7 +13,6 @@ Neste repositório são disponibilizados os Procedimentos Operacionais Padroniza
 <p align="justify">
 Neste doc são descritas as versões dos POP's atualizadas para a SEINFRA. 
 </p>
-
 <blockquote>
 <dl>
 <dt>Versão 2022.0.0</dt>
