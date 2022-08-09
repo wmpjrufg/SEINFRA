@@ -69,3 +69,17 @@
  </P>
 <P align="center"><img src="/IMG/teste.svg" width="70%" alt="Fluxograma"></P>
 
+<P align="justify">A planilha orçamentária modelo pode ser baixada no link disponibilizado pelo SEINFRA ou pelo seguinte QR CODE. https://docs.google.com/spreadsheets/d/1HlTXerDXX4APiIuoWRjb6KiL6l_I7xhn/edit#gid=1610551782 </P>
+
+<table border="1">
+    <tr>
+        <th>IMAGEM</th>
+        <th>IMAGEM</th>
+    </tr>
+ </table>
+ 
+ <P align="justify">Salientamos que o padrão de entrega e que todo o levantamento de custo seja desenvolvido na plataforma GOOGLE com o uso do sistema Google Planilhas. </P>
+ 
+<h2 align="justify">Cálculo do BDI</h2>
+
+
