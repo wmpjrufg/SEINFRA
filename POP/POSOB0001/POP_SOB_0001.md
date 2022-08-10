@@ -9,9 +9,7 @@
 <p align="justify">Neste tópico mostraremos o processo que deve seguir para solicitar o procedimento de modificação de espaço físico.</p>
 
 <p align="center">Figura 1 - Mostra como o processo ocorre.</p>
-<p align="center"><img src="/POP/POSOB0001/FLUXOGRAMA SOB.svg" width="40%" alt="Resultado do list"></p>
-
-IMAGEM 
+<p align="center"><img src="/POP/POSOB0001/FLUXOGRAMA SOB.svg" width="20%" alt="Resultado do list"></p>
 
 <body>
 <ol>
