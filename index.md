@@ -18,5 +18,5 @@ Este <i>website</i> contém todos procedimentos de trabalho (POP) utilizdos pela
 
 <h2>Índice</h2>   
 <ol>
-<li><a href="https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/POP0001.html" target="_blank">POP0001</a></li>
+<li><a href="https://wmpjrufg.github.io/SEINFRA/POP0001.html" target="_blank">POP0001</a></li>
 </ol>
