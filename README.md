@@ -19,7 +19,7 @@ Neste doc são descritas as versões dos POP's atualizadas para a SEINFRA.
   <dt>Versão 2022.0.0</dt>
       <dd><p align="justify">A versão 2022.0.0 contempla os POP's: a) <b>POP0001</b>; e b) <b>POP0002</b>.</p></dd>
   <dt> POP's</dt>
-      <dd> <b>POP0001:</b><p align="justify">Resumo do POPXXXXXXXXX.</p></dd>
-      <dd> <b>POP0002:</b><p align="justify">Resumo do POPXXXXXXXXX.</p></dd>
+      <dd> <b>POP0001:</b><p align="justify">Procedimento Operacional para unidades/orgãos internos da UFCAT solicitarem modificação de espaço físico para fins de ensino, pesquisa e extensão.</p></dd>
+      <dd> <b>POP0002:</b><p align="justify">Procedimento Operacional Padrão para criação de orçamento de projeto executivo. Base para licitações e projetos internos.</p></dd>
 </dl>
 </blockquote>
