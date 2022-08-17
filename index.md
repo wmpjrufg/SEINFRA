@@ -19,7 +19,7 @@ Neste repositório são disponibilizados os conteúdos de dados e demais Procedi
 
 <h2>POP's</h2>   
 <ol>
-<li><a href="https://wmpjrufg.github.io/SEINFRA/POPs/POP0001/POP0001.html" target="_blank">POP0001</a></li>
+<li><a href="https://wmpjrufg.github.io/SEINFRA/POP/POP0001/POP0001.html" target="_blank">POP0001</a></li>
 </ol>
 
 <h2>Dados de consumo</h2>   
