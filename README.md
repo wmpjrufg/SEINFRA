@@ -13,12 +13,13 @@ Neste repositório são disponibilizados os conteúdos de dados e demais Procedi
 <p align="justify">
 Neste doc são descritas as versões dos POP's atualizadas para a SEINFRA. 
 </p>
+
 <blockquote>
 <dl>
-<dt>Versão 2022.0.0</dt>
-<dd><p align="justify">A versão 2022.0.0 contempla os POP's: a) <b>POP0001</b>; e b) <b>POP0002</b>.</p></dd>
-<dt> POP's</dt>
-<dd> <b>POP0001:</b><p align="justify">Resumo do POP.</p></dd>
-<dd> <b>POP0002:</b><p align="justify">Resumo do POP.</p></dd>
+  <dt>Versão 2022.0.0</dt>
+      <dd><p align="justify">A versão 2022.0.0 contempla os POP's: a) <b>POP0001</b>; e b) <b>POP0002</b>.</p></dd>
+  <dt> POP's</dt>
+      <dd> <b>POP0001:</b><p align="justify">Resumo do POPXXXXXXXXX.</p></dd>
+      <dd> <b>POP0002:</b><p align="justify">Resumo do POPXXXXXXXXX.</p></dd>
 </dl>
 </blockquote>
