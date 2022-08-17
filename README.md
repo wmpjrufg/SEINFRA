@@ -1,7 +1,7 @@
-<h1>Portal SEINFRA POP's</h1>
+<h1>Portal SEINFRA dados</h1>
 
 <p align="justify">
-Neste repositório são disponibilizados os Procedimentos Operacionais Padronizados (POP) criados para gerenciamento de atividades na Secretária de Infraestrutura da Universidade Federal de Catalão (SEINFRA). 
+Neste repositório são disponibilizados os conteúdos de dados e demais Procedimentos Operacionais Padronizados (POP) criados pela Secretária de Infraestrutura da Universidade Federal de Catalão (SEINFRA). Este projeto tem como objetivo a divulgação e facilitação da comunicação entre a SEINFRA e a comunidade interna da UFCAT.
 </p>
 <br>
 
