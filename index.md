@@ -1,10 +1,11 @@
-<h1>Seja bem vindo ao SEINFRA POP's</h1>
+<h1>Seja bem vindo ao SEINFRA dados</h1>
 
 <p align="justify">
-Este <i>website</i> contém todos procedimentos de trabalho (POP) utilizdos pela Secretária de Infraestrutura (SEINFRA). 
+Neste repositório são disponibilizados os conteúdos de dados e demais Procedimentos Operacionais Padronizados (POP) criados pela Secretária de Infraestrutura da Universidade Federal de Catalão (SEINFRA). Este projeto tem como objetivo a divulgação e facilitação da comunicação entre a SEINFRA e a comunidade interna da UFCAT.
 </p>
+<br>
 
-<h2>Desenvolvedores</h2>
+<h2>Coordenação</h2>
 
 <h3>Professores</h3>   
 <ul>
@@ -16,7 +17,12 @@ Este <i>website</i> contém todos procedimentos de trabalho (POP) utilizdos pela
 <li>Priscilla Silva Teotônio</li>
 </ul>
 
-<h2>Índice</h2>   
+<h2>POP's</h2>   
 <ol>
-<li><a href="https://wmpjrufg.github.io/SEINFRA/POP0001.html" target="_blank">POP0001</a></li>
+<li><a href="https://wmpjrufg.github.io/SEINFRA/POPs/POP0001/POP0001.html" target="_blank">POP0001</a></li>
 </ol>
+
+<h2>Dados de consumo</h2>   
+<p align="justify">
+Em construção!!!
+</p>
